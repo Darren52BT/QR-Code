@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -20,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qrcodecomponent-5aW7tuVwfN](https://your-solution-url.com)
-- Live Site URL: [https://spontaneous-lolly-1aedc1.netlify.app/](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qrcodecomponent-5aW7tuVwfN
+- Live Site URL: https://spontaneous-lolly-1aedc1.netlify.app/
 
 ### Built with
 
